@@ -1,5 +1,6 @@
 #!/bin/bash
-#Nexmo SMS script 
+#Nexmo SMS script to submit SMS messages trough Nexmo from Linux
+#Note: no checking of balances or success is now provided in this script.
 
 #MIT License
 
