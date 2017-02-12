@@ -3,7 +3,7 @@
 
 ### Installation
 * ensure that you have curl installed 
-* copy the script and make it executable 
+* copy the smsNexmo.sh script and make it executable 
 * Edit the script and enter the Nexmo API-Key, the API Secret and keys and the sender phone-number
 
 ### usage
@@ -14,5 +14,5 @@ smsNexmo.sh 420123456789 Hello! This message is sent trough Nexmo
 
 
 ###Note
-Currently no feedback from Nexmo is being parsed/processed. No explicit error is raised when the message is not sent for what ever reason.
+Currently no feedback from Nexmo is being parsed/processed. No explicit error is raised when the message is not sent for what ever reason. It's simple as possible.
 
