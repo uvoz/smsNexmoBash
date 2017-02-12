@@ -1,19 +1,10 @@
-## Welcome to GitHub Pages
+## SMS trough Nexmo from linux command prompt
+https://github.com/uvoz/smsNexmoBash/edit/master/README.md) 
 
-You can use the [editor on GitHub](https://github.com/uvoz/smsNexmoBash/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### Installation
+# ensure that you have curl installed 
+## copy the script and make it executable 
+### Edit the script and enter the Nexmo specific keys and the sender phone-number
 
 - Bulleted
 - List
