@@ -13,5 +13,6 @@ Example:
 smsNexmo.sh 420123456789 Hello! This message is sent trough Nexmo
 
 
-Note: currently no feedback from Nexmo is being parsed. No explicit error is raised when the message is not sent.
+###Note
+Currently no feedback from Nexmo is being parsed/processed. No explicit error is raised when the message is not sent for what ever reason.
 
