@@ -2,9 +2,9 @@
 
 
 ### Installation
-*ensure that you have curl installed 
-*copy the script and make it executable 
-*Edit the script and enter the Nexmo API-Key, the API Secret and keys and the sender phone-number
+* ensure that you have curl installed 
+* copy the script and make it executable 
+* Edit the script and enter the Nexmo API-Key, the API Secret and keys and the sender phone-number
 
 ### usage
 smsNexmo.sh phonenumer-receiver your message
